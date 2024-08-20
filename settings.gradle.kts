@@ -8,7 +8,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath("io.harness:gradle-cache:0.0.2")
+        classpath("io.harness:gradle-cache:0.0.4")
     }
 }
 
